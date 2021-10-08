@@ -1,0 +1,5 @@
+# ARRAY
+array = []
+
+# OBJECT
+object = {}
